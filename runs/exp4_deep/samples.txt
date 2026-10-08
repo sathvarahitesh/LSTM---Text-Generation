@@ -1,0 +1,29 @@
+SEED: 'the complete works of william' | temperature=0.5
+the complete works of william and which his eyes and to the people s war the manner of the king i will be a man s good i will be well i ll do the world and the chain on my heart and this is the very and shall be thou art my lord and
+
+SEED: 'the complete works of william' | temperature=1.0
+the complete works of william guides t evening rhyme how owen to my lord he was he forgot he so faith i fear and attire whose noble and desires st them off and hath in fulvia come for the thing in welcome antipholus to syracuse i think here an murder was too falstaff and i
+
+SEED: 'to be or not to be' | temperature=0.5
+to be or not to be the day of the report of the hand of the man i must give him go thou art no more than his own lord and to be been the very true and the man will be a noble man hath often a heart of the king s noble and and
+
+SEED: 'to be or not to be' | temperature=1.0
+to be or not to be curious that in all tilt but even nay in home he must keep all to chance you shall you queen parolles and shall not heard you hence but rowland my love and writing twixt thee she met o home you have touched jupiter more than that keep deep caught away
+
+SEED: 'o romeo romeo' | temperature=0.5
+o romeo romeo to the king he s the king s the king is you are a word and i am so much as in the most time and truth of their brother s death i ll be so to the world and after him all the king will not thought how much
+
+SEED: 'o romeo romeo' | temperature=1.0
+o romeo romeo that what blest but it when tear yet being a former railed of france hal against thy wretch but no creatures richard pretty liar what second watch though all clown fie what our heart would i take thy best either and i lose your own dare never shall stay i
+
+SEED: 'the king' | temperature=0.5
+the king and in the world s offices and a same and a king and call d me and the king to the world s part in the world s er the man s the king and the court of the king s son and i will have it i do your
+
+SEED: 'the king' | temperature=1.0
+the king do glendower time that you see the romans pinch which thou en them o reputation d sailors taurus you be that the most cure and have dwell the history to that heard our audit le double heart a fond creature demeanour with his victory as win past youth antipholus of
+
+SEED: 'my lord' | temperature=0.5
+my lord and by the fellow of this but the devil and i think if you do not be a hand of your face and in the world of her heart and i am as the king s the truth is the king may be a matter when if he be to
+
+SEED: 'my lord' | temperature=1.0
+my lord bardolph am this account to these and death and he is left into all continues when you cry your source the omnes and strangely scene hangers and an rider some virtuous hurt do come man excellent in you touched stain him why he it hath speak d and caution thereby

@@ -1,0 +1,29 @@
+SEED: 'the complete works of william' | temperature=0.5
+the complete works of william i think you are to the king s true lord the summer s a man of the world i will be to the world of your heart and not the world and the morning world as i have been a more to the forest of a man is not to
+
+SEED: 'the complete works of william' | temperature=1.0
+the complete works of william persons let these beholding do corin i do to all this other bird is but we have sorry i noblest canidius that the gallows where old earl of good as gain are at the right her jest or errors up and pure hotspur such thing good night shall i have
+
+SEED: 'to be or not to be' | temperature=0.5
+to be or not to be the day of a speech i ll give me and i will never take him but he is so it s done i will not for this youth the world of the king that they have been not to hear how i ll be a king that that i will
+
+SEED: 'to be or not to be' | temperature=1.0
+to be or not to be prevailed to me well misprision that honour prince s sons your troth o rosalind i end it is the suit how and king is an more neither now breeds and she is touched pity in thine lips an officer a first marriage pack d his state then roar therefore answer
+
+SEED: 'o romeo romeo' | temperature=0.5
+o romeo romeo that the king s house and the noble the king s palace scene ii rome the king s palace scene iv scene i are the king s palace scene iv britain a room in the forest enter the king of a hill if i be glad to show them what
+
+SEED: 'o romeo romeo' | temperature=1.0
+o romeo romeo but if they shall be seen red over our life than blamed you would forget thee ophelia hamlet he will remember hamlet neither ely come at daughter where then has ready our cold and action and much worth that these i it receive me to must kill it hear of
+
+SEED: 'the king' | temperature=0.5
+the king i ll have a poor heels of a daughter and a good and fair than a man and i will be as you have heard me in a world and to be the king and the state of the king s life and you are not in the world to
+
+SEED: 'the king' | temperature=1.0
+the king as bound d my lord hamlet and did rowland comes with pisanio come come fashion do forward cadwal not i have the man were to have blame the empire of the phrase which fell poor feet to be grown till bruise it o beat his thigh counsel thou passion talk
+
+SEED: 'my lord' | temperature=0.5
+my lord i am not but i am a king will i will find thee a great man i do not no well for the world and that i had not to the matter of the king s the fool that i have spoke to the state that woman shall be the
+
+SEED: 'my lord' | temperature=1.0
+my lord noble captain let us is more and come i will not said most health unless my poor ragged lord bred the orbs and hare antony malt so wife yond en on forth all whose remembrance warrant the only troubles upon his order he have made with look and compounded licence

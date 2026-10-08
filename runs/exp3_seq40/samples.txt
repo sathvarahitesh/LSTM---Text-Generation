@@ -1,0 +1,29 @@
+SEED: 'the complete works of william' | temperature=0.5
+the complete works of william and she shall be to the king s house a king hath been the king of the world i will be to the world of his own hand i have not to the drum in that i have our hand and a king this is not to it for the
+
+SEED: 'the complete works of william' | temperature=1.0
+the complete works of william pictures ho bending dercetus coriolanus smiling to it and by my noble tricks to thee enter in thence and fountain before you the reproof high battle octavia i ll be thrust on with the horse of sea king dolabella now to stay cleopatra yet hamlet if he am the man
+
+SEED: 'to be or not to be' | temperature=0.5
+to be or not to be the world i ll live to that you will not my lord hamlet is not thou hast to make me as he is to the world with him the true of the king of this you are not to give their own hand and i have but in the true
+
+SEED: 'to be or not to be' | temperature=1.0
+to be or not to be confine to it enter avaunt on antony eros all percy hamlet who cannot speak of black as you i think no i am not into the tree s ph before a world mouth marry that which thine own going in a boldness sweat enter an thing many elsinore free lartius
+
+SEED: 'o romeo romeo' | temperature=0.5
+o romeo romeo in the king s house the king s the king s house is to the king s house to her more than the time of the monument of his house to a queen to the french of the night and they say they shall you think you see thy kind
+
+SEED: 'o romeo romeo' | temperature=1.0
+o romeo romeo this pistol scroop to this en divine being faith i see raw of t soft shallow hotspur here this which ne er sets off him at gold give their touching heat all by the prisoner and king then he go i it en me to make us that they be
+
+SEED: 'the king' | temperature=0.5
+the king of the queen s house part of the forest enter a king and rome in the duke of the king s palace scene iii alexandria a room in the palace scene iv the king s house scene iv scene i scene i scene i scene i scene i scene i
+
+SEED: 'the king' | temperature=1.0
+the king are luce john of the lover and turn itself upon me orlando all like proculeius at breathless names of the father and the gift and go under the whore of the sheriff before whose authority met it is done coriolanus forbearance let me draw with rebuke both hear tis glendower
+
+SEED: 'my lord' | temperature=0.5
+my lord and sir he will not give me the sea and i think by my master s my lord here s his face and i have not in this lord i will not but i have him of your wife and i might not not so many day but i have
+
+SEED: 'my lord' | temperature=1.0
+my lord madam why do some king o the field i have my citizen hamlet well corrupt my son together my nativity the lunacy i dare have inhuman my wife running prince she cannot see what time fellow i ll appointed maids where our place to hear me how i wore passing

@@ -1,0 +1,29 @@
+SEED: 'the complete works of william' | temperature=0.5
+the complete works of william and most young man to the king s house and the clock s a man and i ll do you for the king s two prince and you are i ll be to see thee but i have done a more man and let me come to me you have
+
+SEED: 'the complete works of william' | temperature=1.0
+the complete works of william functions party fell thirty lartius travel to the good place that he hang d my ears and promise of grievous seeking a not edge than death meet the sea and miseries full in the rest of faith where polonius we have wonder together by dinner so mine on the prince
+
+SEED: 'to be or not to be' | temperature=0.5
+to be or not to be the way of a noise and a little a good lord of falstaff sir sir go on you how you are here to the man of your reason the time that of the heart s father s house and honour which i will not be i ll make the time
+
+SEED: 'to be or not to be' | temperature=1.0
+to be or not to be pins as a person malicious yet how means you iachimo for if your town is won it is and been within the silvius to three if thou art discretion to what that because they are army thyself are antipholus of syracuse iras hal one what s charge vernon naked volumnia
+
+SEED: 'o romeo romeo' | temperature=0.5
+o romeo romeo to the king s house and the world the king s dead is the sweet of the body s once a very good man i will swear you ll know it is not you that shall be the best of her days as i have seen a ambassador at my
+
+SEED: 'o romeo romeo' | temperature=1.0
+o romeo romeo s arm lest it he being niggard or wife and fall fretted and truly fond twas stronger too than a guts seek down drown d from music shadow enter silvius ladies shall be in their love this praise is proud and and always tell you on th play s love
+
+SEED: 'the king' | temperature=0.5
+the king of the world s eye hath not the city of the king and us this was a man and the world s house and thus he was not a man in a king that i have seen with me and i ll be my heart i ll not be this
+
+SEED: 'the king' | temperature=1.0
+the king shall encounter her for the former of many languish but all thy pleasure had tired her bearded heavenly before the heart and in th prince it has the burden of the instant wherein she loves most mother in none yield non kind of ambassador but knows old menenius might speak
+
+SEED: 'my lord' | temperature=0.5
+my lord and she s power and other to the devil and i can pay that it is not to be from your mind and you have been a kind of the king s house and i am a woman s and the players of the same duke frederick thou art i
+
+SEED: 'my lord' | temperature=1.0
+my lord iachimo now well buried to do the wish of the duke enter percy queen falls sir what e sir attended the fleeting of lying lady paces i know ah they th bodies boy when we needs my master proclaim caesar there do not he must have near the drove mute

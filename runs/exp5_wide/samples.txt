@@ -1,0 +1,29 @@
+SEED: 'the complete works of william' | temperature=0.5
+the complete works of william and true as it is to the earth of a king which he is a man of the world and that i have not a matter i ll have the world and the devil were not to the world of the world the thousand i would not be my lord
+
+SEED: 'the complete works of william' | temperature=1.0
+the complete works of william philosophy rather rises frederick some promontory and are the strange house of fifty those s cheek and sets the finer wager of the gloucestershire hour rosalind comes the pompey of wales others as the thing that power at bidding how you must prove an trial more than he i have
+
+SEED: 'to be or not to be' | temperature=0.5
+to be or not to be the world of the purpose i do not to the king and love me with him for the devil that he had a more of the gods be the world of the king s worth the duke of the cave s a very man and the world of the first
+
+SEED: 'to be or not to be' | temperature=1.0
+to be or not to be faculties of thy praise distraction that caesar exit than once hath cymbeline hamlet or i last before a good roman draw the fortunes of love to hence but judgment of him i count venture it cannot deny this rosencrantz to a courtiers cold speak it s octavia virgilia iachimo comes
+
+SEED: 'o romeo romeo' | temperature=0.5
+o romeo romeo to the king s eyes the king s the king is in the king s a man s eyes with his part and to the king s a sea i know not in the king s a king s a comfort we should be the city of our pocket for
+
+SEED: 'o romeo romeo' | temperature=1.0
+o romeo romeo with us jesu as you let get them go to some ell to go thence out cleopatra pray you by tears weep adriana wherein he say again why countess should drink so here of thee and good end his weak and and sharp old that yet hotspur not look to
+
+SEED: 'the king' | temperature=0.5
+the king of the world of a mass i will have a man and the air that is a man and to i had it to take him to me i do not so and i have i know not to the world of the world i would be the man that
+
+SEED: 'the king' | temperature=1.0
+the king he beau parolles you is dead and antony hastings first sir art he should suddenly leave lafew weep to the most you and loves and our invisible and divide you you again tell antony speak nay it is none down distinguish d your lands but cares about his roses northumberland
+
+SEED: 'my lord' | temperature=0.5
+my lord and well that thou art st you and been the man s voices that is a man to this menenius but he is in the world of his own love and we shall be the old and for a good and lead me to be eyes or no more and
+
+SEED: 'my lord' | temperature=1.0
+my lord indeed there s dearer you would i see and a yet call her whom talk for my nephew a philosopher and rested and children she foresee to know pinch so said so now which let us a answer forbid lay which then thou hath answer d there you elsewhere eats

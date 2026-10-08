@@ -1,0 +1,29 @@
+SEED: 'the complete works of william' | temperature=0.5
+the complete works of william that are not in the king i th world that the door is a good lord of the king s name and i will not thee to i am i am a good thing if he s to be my lord to the forest of my love i ll be
+
+SEED: 'the complete works of william' | temperature=1.0
+the complete works of william crescent whom touchstone rise how heigh is a good go o your brains so so such to ask to riper has you the deer did read her my sweet lord lie upon my good lord he has been companion so to exit lepidus where caesar be honour so i have
+
+SEED: 'to be or not to be' | temperature=0.5
+to be or not to be the little of the gates of the horse and the king of this gentleman it is not to be not but thou art and to the court that the king s and the king s a first lord of us hamlet i ll be a king that is the king
+
+SEED: 'to be or not to be' | temperature=1.0
+to be or not to be springs to for what nonny for ever left it makes your phrase did better a juno s th good spirit than the door a golden death hamlet what remains i would not mistake make me too sad no day in the truest visitation s faith he has rhyme yea who
+
+SEED: 'o romeo romeo' | temperature=0.5
+o romeo romeo that the king s old the king s the king s death is a mother of the same a worthy duke of the king s a gift of this part of the world of the gods of the other and did ever say you to see the wretched hours of
+
+SEED: 'o romeo romeo' | temperature=1.0
+o romeo romeo have king hail as you say feeble after on the rock whereupon to th woeful reports that enobarbus he shall write volumnia help archbishop do thou lived dead polonius madam yes this tis a officer and like a woman how i have damned then to see man in most love
+
+SEED: 'the king' | temperature=0.5
+the king of the world that he does not to be a man and the year that he do not the king s true is a letter in the world of the king s the king and the gods be not the first lord i ll be with this and i would
+
+SEED: 'the king' | temperature=1.0
+the king for thanks tis that i may you think tonight tis but caesar be away c exit guarded lucius he is a by the constant my son day the goldsmith is a trumpets door captain clown charmian will you saw us transport me or false good veins john by westmoreland celia
+
+SEED: 'my lord' | temperature=0.5
+my lord and let me speak to us and the devil and i think no more than i will not have so before my lord you to be in this which i have done my lord and my lord hamlet you have a plague of you are here shallow it is a
+
+SEED: 'my lord' | temperature=1.0
+my lord young full good thunder of fair and third i have not born thus been april thou art bred to sunken and cleave the keeper of hero and better filling more open from her music rosencrantz himself and this treble fidele more fool with my husband thou dost i promised haste

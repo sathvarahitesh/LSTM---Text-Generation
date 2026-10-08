@@ -1,0 +1,29 @@
+SEED: 'the complete works of william' | temperature=0.5
+the complete works of william i think not not i will not see my father and th rest of the time of a other and is to a world to be a very poor and that i have seen her are a good night and i ll not speak to have a very honour of
+
+SEED: 'the complete works of william' | temperature=1.0
+the complete works of william tartar desperate fangled divided heart joy and my lord your mother s plot my lord lord you polonius i protest would my that while there go dear to all and invention which thou have st it hence doth pawn me to hence sure by heaven for their sorrow and you
+
+SEED: 'to be or not to be' | temperature=0.5
+to be or not to be the end of a song i ll make you and i will speak for my sword i will have you no man i will not be more than the world of the love of thee and in a world first senator i ll be a good part of the very
+
+SEED: 'to be or not to be' | temperature=1.0
+to be or not to be sooth to me king sconce it must poor enter polonius on her air shall i suffer me in the doors like the brain of nature and sing but homage to by the parrot against the mountain ding old grief i have reveng d which he was myself doubt up till
+
+SEED: 'o romeo romeo' | temperature=0.5
+o romeo romeo to the very year of the first soldier the king s son is the matter i will not be more than a good man i will take you from me with it my lord i am a king in the year for your father and at the verse he hath
+
+SEED: 'o romeo romeo' | temperature=1.0
+o romeo romeo in all cast this great rose making high hands and needs begg d all measure antipholus of ephesus this would go sit fortune whether thou dost further watch much poison lafew with his father were the holy courage a dog and and over me of them leave you tell you
+
+SEED: 'the king' | temperature=0.5
+the king and i shall be so near a great hour and to the king o th world is a man i ll be not to tell you with your own mine lord you to you and i am not a good man i will not be it with the world of
+
+SEED: 'the king' | temperature=1.0
+the king this north servingman in the several king first affections how ll set your lordship fears it merrily steward is i but the man hath a play second that set me i could speak unto him cloten you will please him proceeds not then please you envy sweet falstaff nor nay
+
+SEED: 'my lord' | temperature=0.5
+my lord and well you are a worthy man and now the man do thou art not a man to be but for it i ll not be you as i have a truth to the king s the hour of the king there s a last part o th world and
+
+SEED: 'my lord' | temperature=1.0
+my lord even good father goes a proud and rosalind and a first clown again o witchcraft s life lafew in hush the cine and defiance which cures the judgement moves on thy malice by th occasion why i shall observe other fair night to be two more much of galen putting

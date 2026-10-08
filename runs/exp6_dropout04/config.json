@@ -1,0 +1,18 @@
+{
+  "run_name": "exp6_dropout04",
+  "data": "D:\\Projects\\lstm-text-generation\\data\\shakespeare.txt",
+  "max_words": 300000,
+  "max_vocab": 8000,
+  "seq_len": 20,
+  "embed_dim": 100,
+  "units": [
+    256
+  ],
+  "dropout": 0.4,
+  "lr": 0.001,
+  "batch_size": 256,
+  "epochs": 15,
+  "val_split": 0.1,
+  "patience": 3,
+  "seed": 42
+}
